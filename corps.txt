@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EtherealX - Cryptocurrency Redefined</title>
+    <style>
+        /* ...styles restants... */
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>EtherealX</h1>
+        <p>Cryptocurrency Redefined</p>
+    </div>
+    <div class="content">
+        <h2>About EtherealX</h2>
+        <p>EtherealX is a revolutionary cryptocurrency that aims to redefine the world of digital assets. Built on advanced blockchain technology, EtherealX provides a decentralized, secure, and transparent platform for financial transactions.</p>
+        <p>Our mission is to empower individuals globally by offering an accessible gateway to the blockchain revolution. We believe in creating a future where financial inclusion and security are not just ideals, but realities for all.</p>
+        <a href="#features" class="cta-button">Learn More</a>
+    </div>
+    <div class="content" id="features">
+        <h2>Key Features</h2>
+        <ul>
+            <li>Decentralized and Secure Transactions: EtherealX ensures secure transactions through its decentralized blockchain network.</li>
+            <li>Smart Contract Capabilities: Utilize smart contracts to automate and streamline processes securely and efficiently.</li>
+            <li>Community-Driven Development: EtherealX is developed in collaboration with a vibrant community of blockchain enthusiasts.</li>
+        </ul>
+        <a href="#contact" class="cta-button">Get Started</a>
+    </div>
+    <div class="content" id="contact">
+        <h2>Contact Us</h2>
+        <p>Interested in EtherealX? Get in touch with us to learn more!</p>
+        <p>Email: etherealx.team@gmail.com</p>
+    </div>
+    <div class="content">
+        <h2>Technology</h2>
+        <p>EtherealX is built on the latest blockchain technology, ensuring security and transparency in every transaction. Our robust network architecture guarantees fast and reliable transactions, making EtherealX a trustworthy platform for digital financial activities.</p>
+    </div>
+    <div class="content">
+        <h2>Roadmap</h2>
+        <p>Our journey to redefine the cryptocurrency landscape:</p>
+        <ul>
+            <li>Q4 2023: Launch of EtherealX</li>
+            <li>Q1 2024: Integration of Smart Contracts</li>
+            <li>Q2 2024: Partnership Expansion</li>
+            <li>Q3 2024: Mobile App Release</li>
+            <li>Q4 2024: Global Outreach Initiatives</li>
+        </ul>
+    </div>
+    <div class="content">
+        <h2>Social Media</h2>
+        <p>Connect with us on social media:</p>
+        <a href="https://twitter.com/EtherealxT" (https://twitter.com/EtherealxT) target="_blank" class="cta-button">Twitter</a>
+        <a href="https://t.me/+cFPxPCUi-IxhMzJk" (https://t.me/+cFPxPCUi-IxhMzJk)
+target="_blank" class="cta-button">Telegram</a>
+    </div>
+</body>
+</html>
